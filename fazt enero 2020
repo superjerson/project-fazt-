@@ -1,0 +1,95 @@
+<!DOCTYPE	html>
+<html lang="es">
+	<head>
+				<link rel="stylesheet" type="text/css" href="css.css">
+			<title>PROYECTO FAZT</title>	
+			<meta charset="utf-8"/>	
+			<meta name="description" content="Esta es mi primer pagina web"/>	
+			<meta name="author"	content="FAZT" />
+			<meta name="keywords" content="PROYECTO, FAZT, si"/>
+	</head>
+		<body class="neo">	
+
+			<div class="agrupar">
+				<header  class="escap">
+			<h1>CAMARAS EOS</h1>
+			</header>	
+			<nav class="cass">
+				<ul>
+					<li>Principal</li>
+					<li>Ayuda</li>
+					<li>Contacto</li>
+				</ul>
+					<ul>
+						<li>USA</li>
+						<li>MEXICO</li>
+						<li>BRAZIL</li>
+					</ul>
+						<ul>
+							<li>PERU</li>
+							<li>ARGENTINA</li>
+							<li>CHILE</li>
+						</ul>
+							<ul>
+								<li>ESPAÑA</li>
+								<li>ITALIA</li>
+								<li>FRANCIA</li>
+							</ul>
+			</nav>
+				<section>	
+					<article>
+						<hgroup>
+						<h1>TITULO DEL PRIMER ARTICULO</h1>	
+							<h2>Subtitulo del primer articulo</h2>
+						</hgroup>
+
+								<time datetime="31-12-2019"> Publicado el 31-12-2019</time>
+							<P>Lorem ipsum dolor sit amet, <span>consectetur adipisicing elit,</span> sed do eiusmod
+							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+							consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</P>
+								<img src="file:///C:/Users/Asus/Desktop/html%20con%20fazt/paisaje.jpg.jpg">
+							<footer>
+								<p>Comentarios (0)</p>
+							</footer>
+					</article>	
+								<address>
+								<a href="http://chocolatesexshopereira.com/"> Visita mi sitio web</a>
+								</address>
+						<article>
+							<hgroup>
+							<H1>TITULO DEL SEGUNDO ARTICULO</H1>
+								<h2>Subtitulo del primer articulo</h2>
+							</hgroup>
+									<time datetime="31-12-2019"> Publicado el 31-12-2019</time>	
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+								tempor incididunt ut labore et dolore magna aliqua. <small>Ut enim ad minim veniam,</small>
+								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+								consequat. <small>Duis aute irure dolor in reprehenderit in voluptate velit esse
+								cillum dolore eu fugiat nulla pariatur.</small> Excepteur sint occaecat cupidatat non
+								proident, <cite>sunt in culpa qui officia deserunt mollit anim id est laborum.</cite></p>
+									<img src="file:///C:/Users/Asus/Desktop/html%20con%20fazt/carnet.jpg">
+								<footer>
+									<p>Comentarios (0)</p>
+								</footer>
+						</article>
+				</section>
+					<aside class="basi">
+						<blockquote cite="http://chocolatesexshopereira.com/">
+							mensaje 1
+						</blockquote>
+						<blockquote cite="http://chocolatesexshopereira.com/">
+							mesaje 2
+						</blockquote>
+
+					</aside>
+					<footer>
+						DERECHOS RESERVADOS 2019-2020 JERSITON
+					</footer>
+			</div>
+		</body>
+
+</html>	
+
